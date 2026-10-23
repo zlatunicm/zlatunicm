@@ -1,6 +1,6 @@
 # Hi, I'm Matej 👋
 
-iOS and .NET developer from Zagreb, Croatia. These days I mostly build iOS apps in SwiftUI and write hands-on C# learning material.
+iOS and .NET developer from Zagreb, Croatia, and founder of **[Mikson Core](https://www.miksoncore.com)**. These days I mostly build iOS apps in SwiftUI and write hands-on C# learning material.
 
 ## 🔍 Swift
 
@@ -24,10 +24,6 @@ Eleven runnable, heavily commented console projects, from collections to microse
 | 10 | [Files & JSON](https://github.com/zlatunicm/csharp-files-json-examples) |
 | 11 | [MiniShop microservices](https://github.com/zlatunicm/minishop-microservices) |
 
-## 🐝 Other
-
-- **[Saxbee6](https://github.com/zlatunicm/Saxbee6)**: beekeeping app (work in progress)
-
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/matej-zlatunic-75488763/)
+[miksoncore.com](https://www.miksoncore.com) · [LinkedIn](https://www.linkedin.com/in/matej-zlatunic-75488763/)
