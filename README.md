@@ -1,6 +1,6 @@
 # Matej Zlatunić
 
-**iOS & .NET developer · Founder of [Mikson Core](https://www.miksoncore.com) · Zagreb, Croatia**
+**iOS & .NET developer · CEO of [Mikson Core](https://www.miksoncore.com) · Zagreb, Croatia**
 
 I build and ship mobile products end to end: concept, architecture, UI, data layer, App Store. At Mikson Core I run a portfolio of SwiftUI apps, from fridge inventory and nutrition tracking to a health companion, and I write the kind of C# material I wish I'd had when I was learning.
 
