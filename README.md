@@ -6,10 +6,12 @@ I build and ship mobile products end to end: concept, architecture, UI, data lay
 
 ## What I'm good at
 
-- **SwiftUI apps that ship.** Tens of thousands of lines of production Swift across multiple apps: SwiftData persistence with schema migrations, barcode scanning, charts, notifications, onboarding flows, fastlane screenshots.
-- **Clean, testable library code.** [SwiftSearcher](https://github.com/zlatunicm/SwiftSearcher) is a dependency-free, multilingual, typo-tolerant search engine in about 60 lines of core logic, with a full test suite, running on iOS, macOS, tvOS and watchOS.
-- **Explaining hard things with running code.** My 11-part C# series covers everything from collections to a .NET 8 microservices demo, with every claim backed by a benchmark or a reproducible example rather than a slide.
-- **Full-stack background.** .NET 8 minimal APIs and YARP, .NET MAUI, EF Core, Angular/TypeScript, plus Linux, Docker and NVIDIA GPU host operations.
+- **From idea to App Store.** I take a product through the whole arc: concept, architecture, UI, data model, release, iteration. No handoffs, no gaps.
+- **Engineering that holds up.** Small, dependency-free, well-tested code over clever code. [SwiftSearcher](https://github.com/zlatunicm/SwiftSearcher) is the public example: a full search engine in ~60 lines of core logic.
+- **Running a product company.** At Mikson Core I set the roadmap, define the brand and positioning, handle marketing and SEO, and decide what gets built next and why.
+- **Systems and process.** Automated screenshots and releases, schema migrations, documented conventions, and a workspace structure that lets several apps share one set of rules.
+- **Teaching by showing.** An 11-part C# series where every claim is backed by a benchmark or a runnable example. If I can't demonstrate it, I don't assert it.
+- **Breadth when it's needed.** .NET 8 and microservices, .NET MAUI, Angular/TypeScript, Linux, Docker and GPU hosts. Comfortable moving between the app, the backend and the box it runs on.
 
 ## Open source
 
