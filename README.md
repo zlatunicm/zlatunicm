@@ -11,7 +11,7 @@ I build and ship mobile products end to end: concept, architecture, UI, data lay
 - **Running a product company.** At Mikson Core I set the roadmap, define the brand and positioning, handle marketing and SEO, and decide what gets built next and why.
 - **Systems and process.** Automated screenshots and releases, schema migrations, documented conventions, and a workspace structure that lets several apps share one set of rules.
 - **Teaching by showing.** An 11-part C# series where every claim is backed by a benchmark or a runnable example. If I can't demonstrate it, I don't assert it.
-- **Breadth when it's needed.** .NET 8 and microservices, .NET MAUI, Angular/TypeScript, Linux, Docker and GPU hosts. Comfortable moving between the app, the backend and the box it runs on.
+- **Breadth when it's needed.** .NET 8 and microservices, .NET MAUI, React/TypeScript, Linux, Docker and GPU hosts. Comfortable moving between the app, the backend and the box it runs on.
 
 ## Open source
 
@@ -23,7 +23,7 @@ I build and ship mobile products end to end: concept, architecture, UI, data lay
 
 ## Stack
 
-`Swift` `SwiftUI` `SwiftData` `C#` `.NET 8` `.NET MAUI` `EF Core` `TypeScript` `Angular` `Docker` `Linux` `CUDA`
+`Swift` `SwiftUI` `SwiftData` `C#` `.NET 8` `.NET MAUI` `EF Core` `TypeScript` `React` `Docker` `Linux` `CUDA`
 
 ## Contact
 
